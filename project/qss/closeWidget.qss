@@ -1,0 +1,18 @@
+QPushButton {
+    background-color: rgb(255, 255, 255); /* 背景色为白色 */
+    color: black;               /* 文字颜色为黑色 */
+    border: none;               /* 无边框 */
+    border-radius: 25px;        /* 圆角边框，设置为按钮高度的一半 */
+    min-width: 50px;            /* 确保按钮宽度 */
+    min-height: 50px;           /* 确保按钮高度 */
+    max-width: 50px;            /* 固定按钮宽度 */
+    max-height: 50px;           /* 固定按钮高度 */
+}
+
+QPushButton:hover {
+    background-color: rgb(196, 43, 28);  /* 悬停时的背景色 */
+}
+
+QPushButton:pressed {
+    background-color: rgb(199, 64, 49);  /* 按下时的背景色 */
+}

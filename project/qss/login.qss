@@ -1,0 +1,20 @@
+QLabel{
+    color:pink;
+    font-size:30px
+}
+
+QLineEdit{
+    width:200px;
+    height:40px;
+    border-radius:5px;
+    border:none
+}
+
+QPushButton{
+    color:red;
+    width:120px;
+    height:50px;
+    border-radius:5px;
+    border:none;
+    background:white
+}

@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/openBackground.png</file>
+        <file>img/thief.png</file>
+        <file>img/police.png</file>
+        <file>qss/closeWidget.qss</file>
+        <file>qss/mainBtn.qss</file>
+        <file>qss/login.qss</file>
+        <file>img/exit.png</file>
+        <file>img/allWinIcon.png</file>
+        <file>img/continueIcon.png</file>
+        <file>img/nextIcon.png</file>
+        <file>img/pauseIcon.png</file>
+        <file>img/jietu.png</file>
+        <file>qss/log.qss</file>
+        <file>img/lastIcon.png</file>
+        <file>img/folder.png</file>
+        <file>img/background.jpg</file>
+    </qresource>
+</RCC>

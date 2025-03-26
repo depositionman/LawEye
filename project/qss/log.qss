@@ -1,0 +1,8 @@
+QLabel {
+    font-family: "Arial"; /* 字体 */
+    font-size: 20px; /* 字体大小 */
+    color: black; /* 字体颜色 */
+    padding: 2px 4px; /* 内边距 */
+    border: none; /* 无边框 */
+    text-align: center; /* 文本居中对齐 */
+}
